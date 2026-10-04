@@ -1,0 +1,24 @@
+{
+  "challenge_module": "Registry.P046.Challenge",
+  "solution_module": "Registry.P046.Solution",
+  "theorem_names": [
+    "RAF.Concrete.reaction_length_add",
+    "RAF.Concrete.reaction_left_pos",
+    "RAF.Concrete.reaction_right_pos",
+    "RAF.Concrete.reaction_product_le",
+    "RAF.Concrete.reaction_pow_split",
+    "RAF.Concrete.molLength_reactionLeft",
+    "RAF.Concrete.molLength_reactionRight",
+    "RAFCriticalWindowQuantitative.seedTest_exists",
+    "HordijkSteelThreshold.measurable_currySplitField",
+    "RAFReactionQuotient.precedes_total",
+    "RAFCriticalWindowQuantitative.geometricTest_exists",
+    "RAFCriticalWindowQuantitative.repair_ratio",
+    "RAFCriticalWindowQuantitative.quantitative_critical_window_resolution"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ]
+}

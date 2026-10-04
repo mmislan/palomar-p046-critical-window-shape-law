@@ -1,0 +1,103 @@
+{
+  "version": "v0.4",
+  "project": {
+    "name": "Certified evaluation and low-intensity flatness of RAF critical-window profiles",
+    "description": "The critical-window laws for autocatalytic emergence in reversible binary-polymer networks lead to survival profiles for independent open reaction channels. For both the ordered split-position and commuting-factor quotient models, with all binary words of length at most two as food, explicit total algorithms enclose each survival probability at every rational openness in [0,1] to any prescribed positive rational accuracy. Computable seed lengths and finite-record contraction estimates provide uniform truncation bounds on intervals bounded away from zero. The associated intensity profiles S(1 − exp(−λ)) are smaller than every fixed power of λ as λ tends to zero from above. Rational interval bounds also compare these profiles with finite-network RAF-existence probabilities under explicit catalyst-pool and input-probability conditions. These results extend the split and quotient critical-window laws with certified approximation and quantitative control.",
+    "authors": [
+      "Michael Mislan"
+    ],
+    "responsible_maintainers": [
+      "Michael Mislan"
+    ],
+    "license": "Apache-2.0"
+  },
+  "classification": {
+    "arxiv": [
+      "math.PR",
+      "q-bio.MN"
+    ],
+    "msc2020": [
+      "60K35",
+      "92E20",
+      "05C80",
+      "03D78",
+      "68V20"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Effective approximation, low-intensity bounds, and finite-size effects for autocatalytic emergence in reversible polymer networks",
+      "type": "paper",
+      "relationship": "formalizes",
+      "location": "papers/P046/paper.pdf",
+      "note": "The 21-page manuscript develops the selected quantitative core in Theorems 3.1 and 3.5, the sparse-bound and all-powers results of Section 4, and Section 5.2. Appendix A separates formal, arithmetic-only and conventional results."
+    },
+    {
+      "title": "Autocatalytic sets in polymer networks with variable catalysis distributions",
+      "authors": [
+        "Wim Hordijk",
+        "Mike Steel"
+      ],
+      "id": "doi:10.1007/s10910-016-0666-z",
+      "type": "paper",
+      "relationship": "background",
+      "location": "https://arxiv.org/pdf/1605.03919v1",
+      "note": "Section 7, p.20, Eq.(21) proposes a zero-one linear-catalysis threshold. This conjecture is background already addressed by P002/P036; the present Q1-Q3 are questions posed in the quantitative manuscript, not additional named conjectures from this source."
+    }
+  ],
+  "related_formalizations": [
+    {
+      "id": "https://github.com/mmislan/palomar-p002-binary-polymer-critical-window/tree/f90984f2b107aad62c6efcceb0d8cb9da0fe62a4",
+      "relationship": "builds-on",
+      "note": "Split-position source semantics and geometric closure estimates. The selected companion registry theorem is narrower than the complete source development."
+    },
+    {
+      "id": "https://github.com/mmislan/palomar-p036-quotient-channel-raf-limit/tree/12b505dcc1ccc5ee2d06b32692af201d452a2a7c",
+      "relationship": "builds-on",
+      "note": "Quotient source semantics, half-openness comparison and supplied-seed estimates. The selected companion registry theorem is narrower than the complete source development."
+    }
+  ],
+  "status": {
+    "scope": "One canonical quantitative result for both literal channel conventions, stated by RAFCriticalWindowQuantitative.quantitative_critical_window_resolution. Its two ProfileGuarantees records contain the total rational enclosure, uniform error, sparse-coefficient power bound and epsilon-delta intensity flatness; SourceGuarantees retains the finite input and retained-pool conditions. The root additionally extracts productive k-channel histories from words longer than 2^(k+1) and gives the weak split bound S(a)<8/10^26 for a<=10^-20. No full sharper history census, exact singleton probability, strict increase, inverse brackets, nonanalyticity or smoothness theorem is selected.",
+    "axioms": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "main_results": [
+      {
+        "declaration": "RAFCriticalWindowQuantitative.quantitative_critical_window_resolution",
+        "file": "Registry/P046/Solution.lean",
+        "axioms": [
+          "propext",
+          "Classical.choice",
+          "Quot.sound"
+        ],
+        "literature_dependencies": []
+      }
+    ]
+  },
+  "automation": {
+    "methods": [
+      {
+        "method": "agent",
+        "framework": "Codex",
+        "models": [],
+        "tool_setup": "AI-assisted Lean development, statement review, source migration and submission preparation using Codex."
+      }
+    ],
+    "notes": "AI-assisted development and preparation. Historical model identifiers are not inferred where the preserved records do not establish them."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "notes": "Independent agent review examined the six-conjunct submission statement, its source correspondence and the manuscript account. This is not a claim of independent human review."
+  },
+  "fidelity": {
+    "divergences": "Both models use independent reaction-channel marks and food X_2. The finite-source comparison retains its input-probability and catalyst-pool hypotheses. The rational enclosure is a total computability theorem; practical numerical complexity is not established. Intensity flatness states decay faster than every fixed power and does not assert differentiability. The sharper history census, singleton law, strict monotonicity and inverse results are conventional results in the manuscript. The 10^-629 probability interpretation combines coefficient arithmetic with that conventional census. Seed acquisition uses X_min(n,L), including L>n."
+  },
+  "alignment": {
+    "selected": "RAFCriticalWindowQuantitative.quantitative_critical_window_resolution",
+    "independent_challenge": "Independent Mathlib-only statement of the complete six-conjunct result.",
+    "source_convention": "split and commuting-factor quotient are distinct Bernoulli experiments"
+  }
+}

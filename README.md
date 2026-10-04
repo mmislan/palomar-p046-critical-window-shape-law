@@ -1,0 +1,9 @@
+# Certified evaluation and low-intensity flatness of RAF critical-window profiles
+
+The critical-window laws for autocatalytic emergence in reversible binary-polymer networks lead to survival profiles for independent open reaction channels. For both the ordered split-position and commuting-factor quotient models, with all binary words of length at most two as food, explicit total algorithms enclose each survival probability at every rational openness in [0,1] to any prescribed positive rational accuracy. Computable seed lengths and finite-record contraction estimates provide uniform truncation bounds on intervals bounded away from zero. The associated intensity profiles S(1 − exp(−λ)) are smaller than every fixed power of λ as λ tends to zero from above. Rational interval bounds also compare these profiles with finite-network RAF-existence probabilities under explicit catalyst-pool and input-probability conditions. These results extend the split and quotient critical-window laws with certified approximation and quantitative control.
+
+[Statement](Registry/P046/Challenge.lean) · [Proof](Registry/P046/Solution.lean) · [Manuscript](papers/P046/paper.pdf) · [Formal scope](entries/P046/SCOPE.md) · [Metadata](entries/P046/formalization.yaml)
+
+The quantitative development builds on the [split-position](https://github.com/mmislan/palomar-p002-binary-polymer-critical-window/tree/f90984f2b107aad62c6efcceb0d8cb9da0fe62a4) and [reaction-channel quotient](https://github.com/mmislan/palomar-p036-quotient-channel-raf-limit/tree/12b505dcc1ccc5ee2d06b32692af201d452a2a7c) source developments. The original threshold question appears in Hordijk and Steel, [Section 7, Eq. (21)](https://arxiv.org/abs/1605.03919).
+
+Code is licensed under Apache-2.0. The manuscript and its original figures are licensed under CC BY 4.0; third-party materials retain their own terms.

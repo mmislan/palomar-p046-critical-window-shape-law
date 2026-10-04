@@ -1,0 +1,164 @@
+\begin{thebibliography}{10}
+
+\bibitem{demoura2021lean4}
+Leonardo de~Moura and Sebastian Ullrich.
+\newblock The {L}ean 4 theorem prover and programming language.
+\newblock In {\em Automated Deduction -- CADE 28}, volume 12699 of {\em Lecture
+  Notes in Computer Science}, pages 625--635. Springer, 2021.
+
+\bibitem{eigen1971selforganization}
+Manfred Eigen.
+\newblock Selforganization of matter and the evolution of biological
+  macromolecules.
+\newblock {\em Naturwissenschaften}, 58(10):465--523, 1971.
+
+\bibitem{grimmett1999percolation}
+Geoffrey Grimmett.
+\newblock {\em Percolation}, volume 321 of {\em Grundlehren der mathematischen
+  Wissenschaften}.
+\newblock Springer, Berlin, 2nd edition, 1999.
+
+\bibitem{harris1960lower}
+Theodore~E. Harris.
+\newblock A lower bound for the critical probability in a certain percolation
+  process.
+\newblock {\em Mathematical Proceedings of the Cambridge Philosophical
+  Society}, 56(1):13--20, 1960.
+
+\bibitem{hordijk2010autocatalytic}
+Wim Hordijk, Jotun Hein, and Mike Steel.
+\newblock Autocatalytic sets and the origin of life.
+\newblock {\em Entropy}, 12(7):1733--1742, 2010.
+
+\bibitem{hordijk2011required}
+Wim Hordijk, Stuart~A. Kauffman, and Mike Steel.
+\newblock Required levels of catalysis for emergence of autocatalytic sets in
+  models of chemical reaction systems.
+\newblock {\em International Journal of Molecular Sciences}, 12(5):3085--3101,
+  2011.
+
+\bibitem{hordijk2015algorithms}
+Wim Hordijk, Joshua~I. Smith, and Mike Steel.
+\newblock Algorithms for detecting and analysing autocatalytic sets.
+\newblock {\em Algorithms for Molecular Biology}, 10:15, 2015.
+
+\bibitem{hordijk2004detecting}
+Wim Hordijk and Mike Steel.
+\newblock Detecting autocatalytic, self-sustaining sets in chemical reaction
+  systems.
+\newblock {\em Journal of Theoretical Biology}, 227(4):451--461, 2004.
+
+\bibitem{hordijk2016variable}
+Wim Hordijk and Mike Steel.
+\newblock Autocatalytic sets in polymer networks with variable catalysis
+  distributions.
+\newblock {\em Journal of Mathematical Chemistry}, 54(10):1997--2021, 2016.
+
+\bibitem{hordijk2017chasing}
+Wim Hordijk and Mike Steel.
+\newblock Chasing the tail: The emergence of autocatalytic networks.
+\newblock {\em Biosystems}, 152:1--10, 2017.
+
+\bibitem{hordijk2012structure}
+Wim Hordijk, Mike Steel, and Stuart Kauffman.
+\newblock The structure of autocatalytic sets: Evolvability, enablement, and
+  emergence.
+\newblock {\em Acta Biotheoretica}, 60(4):379--392, 2012.
+
+\bibitem{hordijk2019diversity}
+Wim Hordijk, Mike Steel, and Stuart~A. Kauffman.
+\newblock Molecular diversity required for the formation of autocatalytic sets.
+\newblock {\em Life}, 9(1):23, 2019.
+
+\bibitem{kauffman1986autocatalytic}
+Stuart~A. Kauffman.
+\newblock Autocatalytic sets of proteins.
+\newblock {\em Journal of Theoretical Biology}, 119(1):1--24, 1986.
+
+\bibitem{kauffman1993origins}
+Stuart~A. Kauffman.
+\newblock {\em The Origins of Order: Self-Organization and Selection in
+  Evolution}.
+\newblock Oxford University Press, New York, 1993.
+
+\bibitem{lothaire1997combinatorics}
+M.~Lothaire.
+\newblock {\em Combinatorics on Words}.
+\newblock Cambridge Mathematical Library. Cambridge University Press,
+  Cambridge, 1997.
+
+\bibitem{lyndon1962equation}
+Roger~C. Lyndon and Marcel-Paul Sch{\"u}tzenberger.
+\newblock The equation $a^m=b^nc^p$ in a free group.
+\newblock {\em Michigan Mathematical Journal}, 9(4):289--298, 1962.
+
+\bibitem{quotientwindow2026}
+Michael Mislan.
+\newblock Critical-window emergence of autocatalytic sets under
+  reaction-channel quotienting.
+\newblock Companion manuscript, 2026. Commuting-factor quotient of reaction
+  channels; proves the quotient critical-window law
+  $S_{\mathrm{qt}}(1-e^{-\lambda})$, the half-openness domination of the split
+  supplied-seed estimate, and the bounded-catalyst gateway comparison, 2026.
+
+\bibitem{overlapgateway2026}
+Michael Mislan.
+\newblock Exact overlap partitions and gateway scaling in {K}auffman {RAF}
+  networks.
+\newblock Companion manuscript, 2026. Defines the commuting-factor quotient of
+  reaction channels and proves the exact $34$-channel food gateway count, 2026.
+
+\bibitem{splitwindow2026}
+Michael Mislan.
+\newblock A nontrivial critical window for {RAF} emergence in the binary
+  polymer model.
+\newblock Companion manuscript, 2026. Split-position reaction catalogue; proves
+  that the RAF probability converges to $S_{\mathrm{sp}}(1-e^{-\lambda})$ when
+  $f_n/n\to\lambda$, with $0<S_{\mathrm{sp}}(1-e^{-\lambda})\le
+  1-e^{-36\lambda}$, and supplies the supplied-seed mass estimate and the
+  finite catalytic comparison used here, 2026.
+
+\bibitem{mossel2005random}
+Elchanan Mossel and Mike Steel.
+\newblock Random biochemical networks: the probability of self-sustaining
+  autocatalysis.
+\newblock {\em Journal of Theoretical Biology}, 233(3):327--336, 2005.
+
+\bibitem{steel2000emergence}
+Mike Steel.
+\newblock The emergence of a self-catalysing structure in abstract
+  origin-of-life studies.
+\newblock {\em Applied Mathematics Letters}, 13(3):91--95, 2000.
+
+\bibitem{steel2019autocatalytic}
+Mike Steel, Wim Hordijk, and Joana~C. Xavier.
+\newblock Autocatalytic networks in biology: structural theory and algorithms.
+\newblock {\em Journal of the Royal Society Interface}, 16(151):20180808, 2019.
+
+\bibitem{mathlib2020}
+{The mathlib Community}.
+\newblock The {L}ean mathematical library.
+\newblock In {\em Proceedings of the 9th ACM SIGPLAN International Conference
+  on Certified Programs and Proofs (CPP 2020)}, pages 367--381. ACM, 2020.
+
+\bibitem{varanasi2026repository}
+Varun Varanasi.
+\newblock {Emergence-of-Autocatalysis-in-Prebiotic-Reaction-Networks}: public
+  source and data repository.
+\newblock
+  \url{https://github.com/VJ-Varanasi/Emergence-of-Autocatalysis-in-Prebiotic-Reaction-Networks},
+  2026.
+\newblock Reaction generator and catalysis sampler, as retrieved 1 September
+  2026.
+
+\bibitem{varanasi2026emergence}
+Varun Varanasi and Jun Korenaga.
+\newblock Emergence of autocatalysis in prebiotic reaction networks.
+\newblock {\em Physical Review E}, 113:044304, 2026.
+
+\bibitem{weihrauch2000computable}
+Klaus Weihrauch.
+\newblock {\em Computable Analysis: An Introduction}.
+\newblock Texts in Theoretical Computer Science. Springer, Berlin, 2000.
+
+\end{thebibliography}
