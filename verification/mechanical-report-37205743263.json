@@ -1,0 +1,1718 @@
+{
+  "build_log_tail": "\u2714 [8930/8977] Built proofs.HordijkSteelThreshold.DisjointDetourSelection (1.8s)\n\u2714 [8931/8977] Built proofs.HordijkSteelThreshold.DiamondCutPotential (3.0s)\n\u2714 [8932/8977] Built proofs.HordijkSteelThreshold.BooleanEdgeCuts (3.5s)\n\u2714 [8933/8982] Built proofs.RAF.Probability.UniformCatalysis (4.7s)\n\u2714 [8934/8982] Built proofs.HordijkSteelThreshold.FoodWordParents (2.8s)\n\u2714 [8935/8982] Built proofs.RAF.Core.CRS (4.5s)\n\u2714 [8936/8982] Built proofs.RAF.Polymer.Words (4.6s)\n\u2714 [8937/8982] Built proofs.HordijkSteelThreshold.FiniteBondSeparation (2.7s)\n\u2714 [8938/8982] Built proofs.RAF.Probability.SeedEvent (4.5s)\n\u2714 [8939/8984] Built proofs.RAF.Core.Closure (4.5s)\n\u2714 [8940/8984] Built proofs.RAF.Polymer.Food (4.3s)\n\u2714 [8941/8984] Built proofs.HordijkSteelThreshold.BinaryWordCode (4.6s)\n\u2714 [8942/8985] Built proofs.HordijkSteelThreshold.WordCoreCount (2.8s)\n\u2714 [8943/8985] Built proofs.RAF.Core.RAF (4.3s)\n\u2714 [8944/8985] Built proofs.RAF.Polymer.Reactions (5.7s)\n\u2714 [8945/8985] Built proofs.HordijkSteelThreshold.BoundedFoodWords (4.5s)\n\u2714 [8946/8985] Built proofs.HordijkSteelThreshold.WordMolecularCounts (2.9s)\n\u2714 [8947/8985] Built proofs.HordijkSteelThreshold.ConnectedContourCounting (3.4s)\n\u2714 [8948/8985] Built proofs.RAF.Core.Seed (4.5s)\n\u2714 [8949/8992] Built proofs.RAF.Polymer.SeedCount (4.3s)\n\u2714 [8950/8992] Built proofs.RAF.Polymer.Counts (4.1s)\n\u2714 [8951/8992] Built proofs.RAF.Concrete.PolymerCRS (5.1s)\n\u2714 [8952/8992] Built proofs.HordijkSteelThreshold.LocalParityTransfer (2.6s)\n\u2714 [8953/8992] Built proofs.RAF.Conjecture.SeedBound (4.4s)\n\u2714 [8954/8992] Built proofs.HordijkSteelThreshold.WordGraphCuts (4.8s)\n\u2714 [8955/9004] Built proofs.RAF.Asymptotics.ReactionRatio (4.7s)\n\u2714 [8956/9004] Built proofs.HordijkSteelThreshold.PolymerCounts (4.6s)\n\u2714 [8957/9004] Built proofs.HordijkSteelThreshold.BinaryReactionSplit (4.5s)\n\u2714 [8958/9009] Built proofs.RAF.Concrete.SeedGateway (5.5s)\n\u2714 [8959/9009] Built proofs.RAF.Asymptotics.FixedGap (4.8s)\n\u2714 [8960/9009] Built proofs.HordijkSteelThreshold.WordParentFibers (4.8s)\n\u2714 [8961/9009] Built proofs.HordijkSteelThreshold.WordDiamondCuts (5.8s)\n\u2714 [8962/9009] Built proofs.HordijkSteelThreshold.BasicSourceEdges (4.7s)\n\u2714 [8963/9009] Built proofs.RAF.Concrete.UniformModel (4.7s)\n\u2714 [8964/9009] Built proofs.HordijkSteelThreshold.ContourMassBound (2.8s)\n\u2714 [8965/9010] Built proofs.HordijkSteelThreshold.Gateway (5.8s)\n\u2714 [8966/9015] Built proofs.HordijkSteelThreshold.WordDetourIncidence (5.9s)\n\u2714 [8967/9017] Built proofs.HordijkSteelThreshold.WordBondConnected (5.0s)\n\u2714 [8968/9019] Built proofs.HordijkSteelThreshold.ShortSourceReactions (5.3s)\n\u2714 [8969/9021] Built proofs.HordijkSteelThreshold.WordDetourPaths (5.1s)\n\u2714 [8970/9021] Built proofs.RAF.Concrete.Events (6.4s)\n\u2714 [8971/9021] Built proofs.OverlapCorrectedRAF.Source.KauffmanRepositoryModel (4.0s)\n\u2714 [8972/9021] Built proofs.HordijkSteelThreshold.WordDiamondDegree (5.5s)\n\u2714 [8973/9021] Built proofs.HordijkSteelThreshold.WordDetourSource (4.9s)\n\u2714 [8974/9021] Built proofs.RAFReactionQuotient.ClosureProjection (4.9s)\n\u2714 [8975/9021] Built proofs.OverlapCorrectedRAF.Source.KauffmanRepositoryCRS (4.4s)\n\u2714 [8976/9021] Built proofs.RAF.Concrete.Asymptotics (7.9s)\n\u2714 [8977/9022] Built proofs.HordijkSteelThreshold.WordDetourSelection (5.7s)\n\u2714 [8978/9022] Built proofs.HordijkSteelThreshold.WordContourCounting (5.7s)\n\u2714 [8979/9040] Built proofs.HordijkSteelThreshold.WordDetourLiteralPaths (5.5s)\n\u2714 [8980/9063] Built proofs.HordijkSteelThreshold.InfiniteProductTranspose (2.3s)\n\u2714 [8981/9063] Built proofs.RAFReactionQuotient.QuotientMap (4.8s)\n\u2714 [8982/9064] Built proofs.HordijkSteelThreshold.WordContourLocality (5.8s)\n\u2714 [8983/9064] Built proofs.HordijkSteelThreshold.FiniteInitialSegments (2.8s)\n\u2714 [8984/9065] Built proofs.HordijkSteelThreshold.PeelingHistory (3.2s)\n\u2139 [8985/9066] Built proofs.HordijkSteelThreshold.GatewayProbability (7.0s)\ninfo: proofs/HordijkSteelThreshold/GatewayProbability.lean:173:14: Try this:\n  [apply] ring_nf\n  \n  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.\n    \n  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.\n\u2714 [8986/9066] Built proofs.HordijkSteelThreshold.PeelingStabilization (2.7s)\n\u2714 [8987/9066] Built proofs.HordijkSteelThreshold.WordProtectedCore (4.6s)\n\u2714 [8988/9092] Built proofs.HordijkSteelThreshold.WordEndPaths (4.4s)\n\u2714 [8989/9092] Built proofs.HordijkSteelThreshold.GatewayCavity (5.6s)\n\u2714 [8990/9099] Built proofs.HordijkSteelThreshold.AmbientOpen (6.2s)\n\u2714 [8991/9099] Built proofs.RAFReactionQuotient.SplitAdapter (4.6s)\n\u2714 [8992/9100] Built proofs.HordijkSteelThreshold.WordCoreAvoidance (5.1s)\n\u2714 [8993/9100] Built proofs.RAFReactionQuotient.CapCompatibility (4.4s)\n\u2714 [8994/9115] Built proofs.RAFReactionQuotient.CommutingUniqueness (5.2s)\n\u2714 [8995/9115] Built proofs.HordijkSteelThreshold.WordHighBand (4.0s)\n\u2714 [8996/9124] Built proofs.RAFEmergenceApprox.ThresholdSweep (2.9s)\n\u2714 [8997/9128] Built proofs.HordijkSteelThreshold.WordCutHighBand (5.1s)\n\u2714 [8998/9128] Built proofs.HordijkSteelThreshold.AmbientIndependence (10s)\n\u2714 [8999/9128] Built proofs.RAFReactionQuotient.Fibres (8.5s)\n\u2714 [9000/9128] Built proofs.RAF.Frankl.Semantics (4.0s)\n\u2714 [9001/9128] Built proofs.RAF.Corrected.BoundaryEvents (4.4s)\n\u2714 [9002/9128] Built proofs.HordijkSteelThreshold.WordCoreSideVolume (4.5s)\n\u2714 [9003/9128] Built proofs.HordijkSteelThreshold.CanonicalCatalysisLaw (4.6s)\n\u2714 [9004/9132] Built proofs.HordijkSteelThreshold.BernoulliSprinkling (4.8s)\n\u2714 [9005/9132] Built proofs.HordijkSteelThreshold.NucleusAmplification (4.5s)\n\u2714 [9006/9134] Built proofs.HordijkSteelThreshold.CatalystPoolBlocks (5.0s)\n\u2714 [9007/9134] Built proofs.RAF.Frankl.Antimatroid (4.9s)\n\u2714 [9008/9134] Built proofs.OverlapCorrectedRAF.Asymptotic.GatewayProbability (4.6s)\n\u2714 [9009/9134] Built proofs.HordijkSteelThreshold.InfiniteLigation (4.3s)\n\u2714 [9010/9134] Built proofs.HordijkSteelThreshold.CatalystPoolFamilyBlocks (4.5s)\n\u2714 [9011/9134] Built proofs.HordijkSteelThreshold.WordLongCoreAnchors (5.4s)\n\u2714 [9012/9136] Built proofs.RAFEmergenceApprox.ParameterAdapter (4.6s)\n\u2714 [9013/9136] Built proofs.OverlapCorrectedRAF.Core.FiniteCoreEvent (4.5s)\n\u2714 [9014/9137] Built proofs.HordijkSteelThreshold.MarkedInfiniteLigation (4.3s)\n\u2714 [9015/9137] Built proofs.HordijkSteelThreshold.ReversibleFiniteCertificates (4.5s)\n\u2714 [9016/9137] Built proofs.OverlapCorrectedRAF.Core.OneCoreProbability (4.9s)\n\u2714 [9017/9140] Built proofs.HordijkSteelThreshold.WordShortAnchors (5.3s)\n\u2714 [9018/9140] Built proofs.HordijkSteelThreshold.ColumnEventProduct (7.0s)\n\u2714 [9019/9143] Built proofs.HordijkSteelThreshold.FamilyOpenProbability (9.4s)\n\u2714 [9020/9143] Built proofs.HordijkSteelThreshold.MarkedCoreAdapter (6.1s)\n\u2714 [9021/9148] Built proofs.HordijkSteelThreshold.WordMolecularAnchors (5.0s)\n\u2714 [9022/9148] Built proofs.OverlapCorrectedRAF.Overlap.ChannelHit (5.9s)\n\u2714 [9023/9148] Built proofs.HordijkSteelThreshold.DisjointDetourProbability (5.2s)\n\u2714 [9024/9148] Built proofs.HordijkSteelThreshold.TemporaryReactionClosure (5.1s)\n\u2714 [9025/9148] Built proofs.OverlapCorrectedRAF.Overlap.FinitePartition (6.2s)\n\u2714 [9026/9148] Built proofs.HordijkSteelThreshold.WordContourProbability (6.5s)\n\u2714 [9027/9148] Built proofs.RAFCriticalWindowQuantitative.FiniteClosure (5.0s)\n\u2714 [9028/9148] Built proofs.HordijkSteelThreshold.StaticSeedClosure (6.3s)\n\u2714 [9029/9148] Built proofs.HordijkSteelThreshold.WordEndBalls (17s)\n\u2714 [9030/9148] Built proofs.HordijkSteelThreshold.StaticEventContinuity (6.5s)\n\u2714 [9031/9148] Built proofs.HordijkSteelThreshold.CohortConnectorProbability (25s)\n\u2714 [9032/9148] Built proofs.RAFCriticalWindowQuantitative.SparseClosure (6.8s)\n\u2714 [9033/9148] Built proofs.OverlapCorrectedRAF.Overlap.SemanticCounting (17s)\n\u2714 [9034/9152] Built proofs.HordijkSteelThreshold.TerminalReactionClosure (5.3s)\n\u2714 [9035/9152] Built proofs.HordijkSteelThreshold.TargetTrials (5.4s)\n\u2714 [9036/9152] Built proofs.HordijkSteelThreshold.StaticSeedBudget (7.8s)\n\u2714 [9037/9152] Built proofs.HordijkSteelThreshold.WordMoleculeContourCount (4.5s)\n\u2714 [9038/9152] Built proofs.HordijkSteelThreshold.NestedColumnHistory (4.7s)\n\u2714 [9039/9152] Built proofs.RAFCriticalWindowQuantitative.FiniteOpenCount (4.7s)\n\u2714 [9040/9156] Built proofs.HordijkSteelThreshold.ReversibleClosureDock (5.1s)\n\u2714 [9041/9156] Built proofs.OverlapCorrectedRAF.Source.RepositorySemanticCounting (7.3s)\n\u2714 [9042/9156] Built proofs.RAFReactionQuotient.Surjectivity (4.0s)\n\u2714 [9043/9156] Built proofs.HordijkSteelThreshold.WordContourMarginals (5.9s)\n\u2714 [9044/9156] Built proofs.HordijkSteelThreshold.ReversibleMeasurableEvents (4.3s)\n\u2714 [9045/9156] Built proofs.HordijkSteelThreshold.HistoryProductLaw (4.6s)\n\u2714 [9046/9156] Built proofs.OverlapCorrectedRAF.Source.ChannelLowerBound (5.0s)\n\u2714 [9047/9156] Built proofs.HordijkSteelThreshold.WordRootedCoverage (5.4s)\n\u2714 [9048/9156] Built proofs.RAFReactionQuotient.CountLoss (5.5s)\n\u2714 [9049/9156] Built proofs.HordijkSteelThreshold.UnboundedTrialExtraction (5.3s)\n\u2714 [9050/9159] Built proofs.OverlapCorrectedRAF.Source.ActualGatewayDock (9.5s)\n\u2714 [9051/9159] Built proofs.HordijkSteelThreshold.WordRootedMass (4.5s)\n\u2714 [9052/9159] Built proofs.HordijkSteelThreshold.ScalarHistoryLaw (5.6s)\n\u2714 [9053/9167] Built proofs.HordijkSteelThreshold.ReversibleEscape (4.9s)\n\u2714 [9054/9167] Built proofs.HordijkSteelThreshold.ReversibleRecordWords (4.7s)\n\u2714 [9055/9167] Built proofs.RAFReactionQuotient.Counts (8.6s)\n\u2714 [9056/9168] Built proofs.HordijkSteelThreshold.WordEffectiveClosure (4.5s)\n\u2714 [9058/9170] Built proofs.OverlapCorrectedRAF.Asymptotic.SublinearCatalysis (7.2s)\n\u2714 [9059/9170] Built proofs.RAFEmergenceApprox.SourceEvent (4.8s)\n\u2714 [9060/9170] Built proofs.HordijkSteelThreshold.ScalarHistoryDistribution (4.7s)\n\u2714 [9061/9170] Built proofs.OverlapCorrectedRAF.Asymptotic.GatewayConditionedBulk (4.2s)\n\u2714 [9062/9170] Built proofs.HordijkSteelThreshold.ReversibleRecordEvents (4.5s)\n\u2714 [9063/9170] Built proofs.HordijkSteelThreshold.InfiniteStaticLaw (4.5s)\n\u2714 [9064/9170] Built proofs.HordijkSteelThreshold.StaticClosureMass (4.7s)\n\u2714 [9065/9170] Built proofs.RAFEmergenceApprox.GenericHistory (5.6s)\n\u2714 [9066/9170] Built proofs.HordijkSteelThreshold.SourceStaticBarrier (4.6s)\n\u2714 [9067/9170] Built proofs.HordijkSteelThreshold.RecordTargetTrial (4.9s)\n\u2714 [9068/9170] Built proofs.HordijkSteelThreshold.SplitPrefixIndependence (5.1s)\n\u2714 [9069/9170] Built proofs.RAFCriticalWindowQuantitative.EffectiveSeed (5.4s)\n\u2714 [9070/9170] Built proofs.HordijkSteelThreshold.StaticBulk (6.3s)\n\u2714 [9071/9170] Built proofs.RAFReactionQuotient.History (4.8s)\n\u2714 [9072/9170] Built proofs.RAFReactionQuotient.ORLaw (5.2s)\n\u2714 [9073/9170] Built proofs.RAFCriticalWindowQuantitative.BoundedRecords (4.8s)\n\u2714 [9074/9170] Built proofs.HordijkSteelThreshold.RecordTargetProbability (5.1s)\n\u2714 [9075/9170] Built proofs.HordijkSteelThreshold.RecordPrefixAtoms (4.4s)\n\u2714 [9076/9170] Built proofs.HordijkSteelThreshold.FixedPoolReactionLaw (9.3s)\n\u2714 [9077/9170] Built proofs.HordijkSteelThreshold.SplitCylinderApproximation (4.7s)\n\u2714 [9078/9170] Built proofs.RAFCriticalWindowQuantitative.SeedDeficit (4.0s)\n\u2714 [9079/9170] Built proofs.RAFCriticalWindowQuantitative.GeometricCutoff (4.8s)\n\u2714 [9080/9170] Built proofs.RAFCriticalWindowQuantitative.QuotientSparseClosure (5.1s)\n\u2714 [9081/9170] Built proofs.RAFReactionQuotient.ORDistribution (4.4s)\n\u2714 [9082/9170] Built proofs.HordijkSteelThreshold.StaticSeedProbability (12s)\n\u2714 [9083/9170] Built proofs.HordijkSteelThreshold.RecordCylinderDeficit (4.7s)\n\u2714 [9084/9170] Built proofs.HordijkSteelThreshold.HalfPoolAsymptotics (5.2s)\n\u2714 [9085/9170] Built proofs.HordijkSteelThreshold.SplitCylinderNull (4.9s)\n\u2714 [9086/9170] Built proofs.RAFCriticalWindowQuantitative.FiniteEventProbability (4.0s)\n\u2714 [9087/9170] Built Registry.P046.SupportingObligations (4.2s)\n\u2714 [9088/9170] Built proofs.RAFCriticalWindowQuantitative.EffectiveBulk (6.2s)\n\u2714 [9089/9170] Built proofs.RAFCriticalWindowQuantitative.ApproximationParameters (4.6s)\n\u2714 [9090/9170] Built proofs.RAFCriticalWindowQuantitative.ProductiveHistory (4.8s)\n\u2714 [9091/9170] Built proofs.HordijkSteelThreshold.TargetTrialProbability (4.7s)\n\u2714 [9092/9170] Built proofs.RAFCriticalWindowQuantitative.FiniteRepair (4.6s)\n\u2714 [9093/9170] Built proofs.HordijkSteelThreshold.StaticFoodTwoBulk (5.6s)\n\u2714 [9094/9170] Built proofs.HordijkSteelThreshold.FixedBaseSprinkling (4.8s)\n\u2714 [9095/9170] Built proofs.HordijkSteelThreshold.NearFullPoolAsymptotics (5.8s)\n\u2714 [9096/9170] Built proofs.RAFCriticalWindowQuantitative.RecordContraction (5.3s)\n\u2714 [9097/9170] Built proofs.HordijkSteelThreshold.StaticUniformBulk (5.0s)\n\u2714 [9098/9170] Built proofs.HordijkSteelThreshold.RandomBaseSprinkling (5.1s)\n\u2714 [9099/9170] Built proofs.RAFCriticalWindowQuantitative.RecordIteration (5.0s)\n\u2714 [9100/9170] Built proofs.RAFReactionQuotient.PoolLimits (6.5s)\n\u2714 [9101/9170] Built proofs.HordijkSteelThreshold.SourceBulkMass (4.2s)\n\u2714 [9102/9170] Built proofs.HordijkSteelThreshold.InfiniteSprinklingLaw (4.9s)\n\u2714 [9103/9170] Built proofs.HordijkSteelThreshold.SourceTerminalRAF (5.2s)\n\u2714 [9104/9170] Built proofs.RAFReactionQuotient.SourceParameters (5.4s)\n\u2714 [9105/9170] Built proofs.HordijkSteelThreshold.StaticParameterMonotonicity (5.1s)\n\u2714 [9106/9170] Built proofs.HordijkSteelThreshold.SprinkledSeedLowerBound (5.1s)\n\u2714 [9107/9170] Built proofs.HordijkSteelThreshold.PositiveLowerPhase (4.4s)\n\u2714 [9108/9170] Built proofs.HordijkSteelThreshold.BoundedRAFSeed (4.3s)\n\u2714 [9109/9170] Built proofs.HordijkSteelThreshold.StaticDecreasingEvents (4.3s)\n\u2714 [9110/9170] Built proofs.RAFReactionQuotient.ProductDomination (5.1s)\n\u2714 [9111/9170] Built proofs.HordijkSteelThreshold.ReversibleEscapeProbability (4.4s)\n\u2714 [9112/9170] Built proofs.HordijkSteelThreshold.SameParameterRichness (4.6s)\n\u2714 [9113/9170] Built proofs.HordijkSteelThreshold.StaticSeedMassBound (4.8s)\n\u2714 [9114/9170] Built proofs.HordijkSteelThreshold.BoundedRAFProbability (4.6s)\n\u2714 [9115/9170] Built proofs.HordijkSteelThreshold.CanonicalParameterMonotonicity (4.4s)\n\u2714 [9116/9170] Built proofs.HordijkSteelThreshold.SourceStaticRAFBound (5.1s)\n\u2714 [9117/9170] Built proofs.HordijkSteelThreshold.StaticSurvivalMonotonicity (4.3s)\n\u2714 [9118/9170] Built proofs.HordijkSteelThreshold.AmbientEscapeBound (4.7s)\n\u2714 [9119/9170] Built proofs.HordijkSteelThreshold.SourceSurvivalLower (4.7s)\n\u2714 [9120/9170] Built proofs.RAFReactionQuotient.InfiniteSource (4.0s)\n\u2714 [9121/9170] Built proofs.HordijkSteelThreshold.CanonicalEscapeUpper (4.2s)\n\u2714 [9122/9170] Built proofs.RAFReactionQuotient.SeedBulk (10s)\n\u2714 [9123/9170] Built proofs.HordijkSteelThreshold.SeedSurvivalApproximation (5.9s)\n\u2714 [9124/9170] Built proofs.HordijkSteelThreshold.TransitionLowerBound (4.0s)\n\u2714 [9125/9170] Built proofs.RAFReactionQuotient.Richness (4.9s)\n\u2714 [9126/9170] Built proofs.HordijkSteelThreshold.TransitionUpperBound (6.4s)\n\u2714 [9127/9170] Built proofs.RAFCriticalWindowQuantitative.FiniteSourceUpper (4.7s)\n\u2714 [9128/9170] Built proofs.RAFReactionQuotient.InfiniteDock (4.7s)\n\u2714 [9129/9170] Built proofs.RAFCriticalWindowQuantitative.QuotientEffectiveBulk (6.3s)\n\u2714 [9130/9170] Built proofs.RAFReactionQuotient.EventContinuity (4.4s)\n\u2714 [9131/9170] Built proofs.RAFCriticalWindowQuantitative.EffectiveSeedSurvival (6.0s)\n\u2714 [9132/9170] Built proofs.HordijkSteelThreshold.StaticSurvivalLeftContinuity (5.6s)\n\u2714 [9133/9170] Built proofs.RAFCriticalWindowQuantitative.QuotientFiniteRepair (4.9s)\n\u2714 [9134/9170] Built proofs.HordijkSteelThreshold.TransitionSandwich (4.6s)\n\u2714 [9135/9170] Built proofs.RAFReactionQuotient.FiniteApproximation (4.9s)\n\u2714 [9136/9170] Built proofs.RAFCriticalWindowQuantitative.ExplicitTruncation (5.3s)\n\u2714 [9137/9170] Built proofs.HordijkSteelThreshold.CorrectedTransition (4.5s)\n\u2714 [9138/9170] Built proofs.HordijkSteelThreshold.StaticSurvivalContinuity (5.1s)\n\u2714 [9139/9170] Built proofs.RAFCriticalWindowQuantitative.QuotientRecordContraction (4.8s)\n\u2714 [9140/9170] Built proofs.HordijkSteelThreshold.VariableIntensityTransition (5.0s)\n\u2714 [9141/9170] Built proofs.RAFReactionQuotient.SeedApproximation (6.0s)\n\u2714 [9142/9170] Built proofs.RAFReactionQuotient.Terminal (7.2s)\n\u2714 [9143/9170] Built proofs.RAFCriticalWindowQuantitative.QuotientRecordIteration (5.0s)\n\u2714 [9144/9170] Built proofs.HordijkSteelThreshold.CriticalWindowSource (4.7s)\n\u2714 [9145/9170] Built proofs.RAFReactionQuotient.SurvivalContinuity (5.2s)\n\u2714 [9146/9170] Built proofs.RAFCriticalWindowQuantitative.QuotientEffectiveSeedSurvival (6.2s)\n\u2714 [9147/9170] Built proofs.RAFReactionQuotient.PoolLaw (5.3s)\n\u2714 [9148/9170] Built proofs.HordijkSteelThreshold.TransitionConsequences (5.3s)\n\u2714 [9149/9170] Built proofs.RAFCriticalWindowQuantitative.SmallOpenness (5.3s)\n\u2714 [9150/9170] Built proofs.RAFCriticalWindowQuantitative.QuotientExplicitTruncation (5.7s)\n\u2714 [9151/9170] Built proofs.RAFReactionQuotient.SourceBounds (6.0s)\n\u2714 [9152/9170] Built proofs.RAFCriticalWindowQuantitative.WorkedBound (4.3s)\n\u2714 [9153/9170] Built proofs.RAFCriticalWindowQuantitative.FiniteEscapeAdapters (4.4s)\n\u2714 [9154/9170] Built proofs.RAFReactionQuotient.SurvivalPositive (6.7s)\n\u2714 [9155/9170] Built proofs.RAFReactionQuotient.CatalogueBridge (6.7s)\n\u2714 [9156/9170] Built proofs.RAFReactionQuotient.CriticalLimit (4.9s)\n\u2714 [9157/9170] Built proofs.RAFCriticalWindowQuantitative.RealErrorBudget (4.6s)\n\u2714 [9158/9170] Built proofs.RAFCriticalWindowQuantitative.EscapeEvaluation (5.6s)\n\u2714 [9159/9170] Built proofs.RAFReactionQuotient.Resolution (4.1s)\n\u2714 [9160/9170] Built proofs.RAFCriticalWindowQuantitative.FiniteSeedEvaluation (5.6s)\n\u2714 [9161/9170] Built proofs.RAFCriticalWindowQuantitative.CertifiedEvaluator (7.3s)\n\u2714 [9162/9170] Built proofs.RAFCriticalWindowQuantitative.LowIntensity (4.7s)\n\u2714 [9163/9170] Built proofs.RAFCriticalWindowQuantitative.FiniteSourceLower (3.6s)\n\u2714 [9164/9170] Built proofs.RAFCriticalWindowQuantitative.RationalPool (2.7s)\n\u2714 [9165/9170] Built proofs.RAFCriticalWindowQuantitative.QuotientCertifiedEvaluator (15s)\n\u2714 [9166/9170] Built proofs.RAFCriticalWindowQuantitative.Endpoints (2.0s)\n\u2714 [9167/9170] Built proofs.RAFCriticalWindowQuantitative.UniformApproximation (3.2s)\n\u2714 [9168/9170] Built proofs.RAFCriticalWindowQuantitative.SourceContract (3.2s)\n\u2714 [9169/9170] Built proofs.RAFCriticalWindowQuantitative.SourceCalibration (2.7s)\n\u2714 [9170/9170] Built Registry.P046.Solution (2.7s)\nBuild completed successfully (9170 jobs).",
+  "bwrap_source_tag": "v0.12.0",
+  "challenge": {
+    "bytes": 44848,
+    "canonical_olean_sha256": "26d230ea68819ca4b446c07a936c79f9bd7c1ae2e88384b2fa3a1ab829f008db",
+    "dependencies": [
+      {
+        "provenance": "allowlisted",
+        "repository": "leanprover-community/mathlib4"
+      }
+    ],
+    "direct_imports": [
+      "Mathlib"
+    ],
+    "lines": 888,
+    "module": "Registry.P046.Challenge",
+    "path": "Registry/P046/Challenge.lean",
+    "sha256": "8a60bd64f959cc00583e6ffc7d9bad3f38201ef28287a52cabfc0ad85ce8172a",
+    "transitive_source_count": 2,
+    "trust_level": "high",
+    "untrusted_sources": []
+  },
+  "checked_at": "2026-10-04T13:40:10Z",
+  "classification": {
+    "arxiv": [
+      {
+        "code": "math.PR",
+        "name": "Probability"
+      },
+      {
+        "code": "q-bio.MN",
+        "name": "Molecular Networks"
+      }
+    ],
+    "msc2020": [
+      {
+        "code": "60K35",
+        "name": "Interacting random processes; statistical mechanics type models; percolation theory"
+      },
+      {
+        "code": "92E20",
+        "name": "Classical flows, reactions, etc. in chemistry"
+      },
+      {
+        "code": "05C80",
+        "name": "Random graphs (graph-theoretic aspects)"
+      },
+      {
+        "code": "03D78",
+        "name": "Computation over the reals, computable analysis"
+      },
+      {
+        "code": "68V20",
+        "name": "Formalization of mathematics in connection with theorem provers"
+      }
+    ]
+  },
+  "comparator": {
+    "challenge_module": "Registry.P046.Challenge",
+    "definition_names": [],
+    "path": "entries/P046/comparator.json",
+    "permitted_axioms": [
+      "propext",
+      "Quot.sound",
+      "Classical.choice"
+    ],
+    "sha256": "7b6be22a5e9ccb6ebc3d1abb7e123ffa43bbaa93c0ff9fa8a1f4abd2311e24ff",
+    "solution_module": "Registry.P046.Solution",
+    "theorem_names": [
+      "RAF.Concrete.reaction_length_add",
+      "RAF.Concrete.reaction_left_pos",
+      "RAF.Concrete.reaction_right_pos",
+      "RAF.Concrete.reaction_product_le",
+      "RAF.Concrete.reaction_pow_split",
+      "RAF.Concrete.molLength_reactionLeft",
+      "RAF.Concrete.molLength_reactionRight",
+      "RAFCriticalWindowQuantitative.seedTest_exists",
+      "HordijkSteelThreshold.measurable_currySplitField",
+      "RAFReactionQuotient.precedes_total",
+      "RAFCriticalWindowQuantitative.geometricTest_exists",
+      "RAFCriticalWindowQuantitative.repair_ratio",
+      "RAFCriticalWindowQuantitative.quantitative_critical_window_resolution"
+    ]
+  },
+  "comparator_log_tail": "Running con-ron kernel on solution\ncon-ron: accepted 31625 declarations (--verified)\ncon-ron kernel accepts the solution\nRunning nanoda kernel on solution\nnanoda kernel accepts the solution\nRunning Lean default kernel on solution\nLean default kernel accepts the solution\nYour solution is okay!\n\ncon-ron: 1 inductive blocks modelled in-process: Lean.Syntax (30 generated records, checked by the fold as declarations and not counted as records of the file)",
+  "errors": [],
+  "existing_id": null,
+  "formalization": {
+    "automation_method_count": 1,
+    "path": "entries/P046/formalization.yaml",
+    "project_name": "Certified evaluation and low-intensity flatness of RAF critical-window profiles",
+    "review_status": "agent-reviewed",
+    "sha256": "7e441aa3cfa1d5bbee12a900b94abdef0ad9b6e57e2acce5fcd3e1c7a3588ea7",
+    "source_count": 2
+  },
+  "kernels": [
+    {
+      "argv": [
+        "/home/runner/.elan/toolchains/leanprover--lean4---v4.35.0-rc2/bin/nanoda_bin"
+      ],
+      "name": "nanoda"
+    },
+    {
+      "argv": [
+        "/home/runner/.elan/toolchains/leanprover--lean4---v4.35.0-rc2/bin/con-ron"
+      ],
+      "name": "con-ron"
+    }
+  ],
+  "lake_manifest": {
+    "path": "lake-manifest.json",
+    "sha256": "28caa825a6d534040a3152cb10ae2305a735297d444709f76afdfd19830b12af"
+  },
+  "lakefile": {
+    "format": "lean",
+    "path": "lakefile.lean",
+    "sha256": "f08adbca3e7de5458e7213bc657dedcfdd0fc5afcf8217d4c50dbcbae80b771c"
+  },
+  "lean_toolchain": "leanprover/lean4:v4.35.0-rc2",
+  "lean_toolchain_path": "lean-toolchain",
+  "license": {
+    "declared_identifier": "Apache-2.0",
+    "detected_identifier": "Apache-2.0",
+    "path": "LICENSE",
+    "sha256": "490fb090fd22b1a147d0ea3e273ac9f127b4851bd182947522292576e9fce443"
+  },
+  "mathlib_cache": {
+    "available": true,
+    "required": true
+  },
+  "mathlib_toolchain": [
+    {
+      "revision": "065356127b1dc0016f66b7283ce0ce2c4055aa55",
+      "toolchain": "leanprover/lean4:v4.35.0-rc2"
+    }
+  ],
+  "orcid_validation": {
+    "checked_at": "2026-10-04T13:29:15Z",
+    "records": [],
+    "registry": "https://orcid.org",
+    "schema_version": 1
+  },
+  "phase": "verification",
+  "project_dependencies": [
+    {
+      "name": "mathlib",
+      "repository": "leanprover-community/mathlib4",
+      "revision": "065356127b1dc0016f66b7283ce0ce2c4055aa55",
+      "url": "https://github.com/leanprover-community/mathlib4.git"
+    },
+    {
+      "name": "plausible",
+      "repository": "leanprover-community/plausible",
+      "revision": "e50948299c4dc4a4c21b1c34b6a6a4fddc19f912",
+      "url": "https://github.com/leanprover-community/plausible"
+    },
+    {
+      "name": "LeanSearchClient",
+      "repository": "leanprover-community/LeanSearchClient",
+      "revision": "95e037bfdc31d3916ac615446847fb01960e2719",
+      "url": "https://github.com/leanprover-community/LeanSearchClient"
+    },
+    {
+      "name": "importGraph",
+      "repository": "leanprover-community/import-graph",
+      "revision": "10930f8138f0462dbd744a91fc03a16fae0e046f",
+      "url": "https://github.com/leanprover-community/import-graph"
+    },
+    {
+      "name": "proofwidgets",
+      "repository": "leanprover-community/ProofWidgets4",
+      "revision": "4c70ac059693669e5756e32a7a94b57ee1e99dc5",
+      "url": "https://github.com/leanprover-community/ProofWidgets4"
+    },
+    {
+      "name": "aesop",
+      "repository": "leanprover-community/aesop",
+      "revision": "75d936c7af167cc93fac0d31237682fc2204591d",
+      "url": "https://github.com/leanprover-community/aesop"
+    },
+    {
+      "name": "Qq",
+      "repository": "leanprover-community/quote4",
+      "revision": "786b7acdca7eb4e9c76c5d1d5bd810e7e5c56334",
+      "url": "https://github.com/leanprover-community/quote4"
+    },
+    {
+      "name": "batteries",
+      "repository": "leanprover-community/batteries",
+      "revision": "ed9b316aabe389fec1ef43c3326ab48c7e59be42",
+      "url": "https://github.com/leanprover-community/batteries"
+    },
+    {
+      "name": "Cli",
+      "repository": "leanprover/lean4-cli",
+      "revision": "2842b9871b04862f944c032e34052cb9448ccb71",
+      "url": "https://github.com/leanprover/lean4-cli"
+    }
+  ],
+  "protected_config": "{\n  \"challenge_module\": \"PalomarCanonicaldc2c756dca3c8b52f54fbbd1.Challenge\",\n  \"definition_names\": [],\n  \"external_kernels\": {\n    \"con-ron\": [\n      \"/home/runner/.elan/toolchains/leanprover--lean4---v4.35.0-rc2/bin/con-ron\"\n    ],\n    \"nanoda\": [\n      \"/home/runner/.elan/toolchains/leanprover--lean4---v4.35.0-rc2/bin/nanoda_bin\"\n    ]\n  },\n  \"permitted_axioms\": [\n    \"propext\",\n    \"Quot.sound\",\n    \"Classical.choice\"\n  ],\n  \"solution_module\": \"Registry.P046.Solution\",\n  \"theorem_names\": [\n    \"RAF.Concrete.reaction_length_add\",\n    \"RAF.Concrete.reaction_left_pos\",\n    \"RAF.Concrete.reaction_right_pos\",\n    \"RAF.Concrete.reaction_product_le\",\n    \"RAF.Concrete.reaction_pow_split\",\n    \"RAF.Concrete.molLength_reactionLeft\",\n    \"RAF.Concrete.molLength_reactionRight\",\n    \"RAFCriticalWindowQuantitative.seedTest_exists\",\n    \"HordijkSteelThreshold.measurable_currySplitField\",\n    \"RAFReactionQuotient.precedes_total\",\n    \"RAFCriticalWindowQuantitative.geometricTest_exists\",\n    \"RAFCriticalWindowQuantitative.repair_ratio\",\n    \"RAFCriticalWindowQuantitative.quantitative_critical_window_resolution\"\n  ]\n}\n",
+  "protected_config_sha256": "c68837437c1b0056e24c0dca462de35882c719bdc353210aa116acae49b14f33",
+  "provenance": {
+    "mathematical_sources": [
+      {
+        "authors": [],
+        "location": "papers/P046/paper.pdf",
+        "note": "The 21-page manuscript develops the selected quantitative core in Theorems 3.1 and 3.5, the sparse-bound and all-powers results of Section 4, and Section 5.2. Appendix A separates formal, arithmetic-only and conventional results.",
+        "relationship": "formalizes",
+        "title": "Effective approximation, low-intensity bounds, and finite-size effects for autocatalytic emergence in reversible polymer networks",
+        "type": "paper"
+      },
+      {
+        "authors": [
+          {
+            "name": "Wim Hordijk"
+          },
+          {
+            "name": "Mike Steel"
+          }
+        ],
+        "identifier": "doi:10.1007/s10910-016-0666-z",
+        "location": "https://arxiv.org/pdf/1605.03919v1",
+        "note": "Section 7, p.20, Eq.(21) proposes a zero-one linear-catalysis threshold. This conjecture is background already addressed by P002/P036; the present Q1-Q3 are questions posed in the quantitative manuscript, not additional named conjectures from this source.",
+        "relationship": "background",
+        "title": "Autocatalytic sets in polymer networks with variable catalysis distributions",
+        "type": "paper"
+      }
+    ],
+    "related_formalizations": [
+      {
+        "identifier": "https://github.com/mmislan/palomar-p002-binary-polymer-critical-window/tree/f90984f2b107aad62c6efcceb0d8cb9da0fe62a4",
+        "note": "Split-position source semantics and geometric closure estimates. The selected companion registry theorem is narrower than the complete source development.",
+        "relationship": "builds-on"
+      },
+      {
+        "identifier": "https://github.com/mmislan/palomar-p036-quotient-channel-raf-limit/tree/12b505dcc1ccc5ee2d06b32692af201d452a2a7c",
+        "note": "Quotient source semantics, half-openness comparison and supplied-seed estimates. The selected companion registry theorem is narrower than the complete source development.",
+        "relationship": "builds-on"
+      }
+    ],
+    "repository_role": "substantive-development",
+    "responsible_maintainers": [
+      {
+        "name": "Michael Mislan"
+      }
+    ],
+    "result_origin": "source-based"
+  },
+  "resource_usage": [
+    {
+      "elapsed_seconds": 0.02,
+      "max_rss_kib": 13492,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "confinement-initial",
+      "returncode": 0,
+      "system_cpu_seconds": 0.027,
+      "user_cpu_seconds": 0.023,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 55849000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 8994816,
+      "phase": "confinement-initial:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.039,
+      "max_rss_kib": 13492,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "confinement-initial",
+      "returncode": 0,
+      "system_cpu_seconds": 0.029,
+      "user_cpu_seconds": 0.042,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 76404000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 13180928,
+      "phase": "confinement-initial:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.02,
+      "max_rss_kib": 13492,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "confinement-initial",
+      "returncode": 1,
+      "system_cpu_seconds": 0.025,
+      "user_cpu_seconds": 0.026,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 55840000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "1",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 8761344,
+      "phase": "confinement-initial:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "failed",
+      "systemd_result": "exit-code"
+    },
+    {
+      "elapsed_seconds": 0.04,
+      "max_rss_kib": 13492,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "confinement-initial",
+      "returncode": 0,
+      "system_cpu_seconds": 0.022,
+      "user_cpu_seconds": 0.049,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 76422000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 13688832,
+      "phase": "confinement-initial:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.04,
+      "max_rss_kib": 13328,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "confinement-initial",
+      "returncode": 1,
+      "system_cpu_seconds": 0.026,
+      "user_cpu_seconds": 0.045,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 76556000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "1",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 13783040,
+      "phase": "confinement-initial:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "failed",
+      "systemd_result": "exit-code"
+    },
+    {
+      "elapsed_seconds": 0.04,
+      "max_rss_kib": 13356,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "confinement-initial",
+      "returncode": 1,
+      "system_cpu_seconds": 0.03,
+      "user_cpu_seconds": 0.042,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 77352000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "1",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 13688832,
+      "phase": "confinement-initial:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "failed",
+      "systemd_result": "exit-code"
+    },
+    {
+      "elapsed_seconds": 0.037,
+      "max_rss_kib": 13492,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "confinement-initial",
+      "returncode": 1,
+      "system_cpu_seconds": 0.026,
+      "user_cpu_seconds": 0.043,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 73032000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "1",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 12734464,
+      "phase": "confinement-initial:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "failed",
+      "systemd_result": "exit-code"
+    },
+    {
+      "elapsed_seconds": 0.059,
+      "max_rss_kib": 25652,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "source-requirements",
+      "returncode": 0,
+      "system_cpu_seconds": 0.038,
+      "user_cpu_seconds": 0.053,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 97251000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 26284032,
+      "phase": "source-requirements:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.058,
+      "max_rss_kib": 25400,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "source-requirements",
+      "returncode": 0,
+      "system_cpu_seconds": 0.037,
+      "user_cpu_seconds": 0.052,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 95294000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 26271744,
+      "phase": "source-requirements:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.059,
+      "max_rss_kib": 25656,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "source-requirements",
+      "returncode": 0,
+      "system_cpu_seconds": 0.035,
+      "user_cpu_seconds": 0.056,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 96624000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 26288128,
+      "phase": "source-requirements:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.059,
+      "max_rss_kib": 25656,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "source-requirements",
+      "returncode": 0,
+      "system_cpu_seconds": 0.04,
+      "user_cpu_seconds": 0.051,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 96651000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 26288128,
+      "phase": "source-requirements:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.207,
+      "max_rss_kib": 78268,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "comparator-preflight",
+      "returncode": 0,
+      "system_cpu_seconds": 0.107,
+      "user_cpu_seconds": 0.133,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 245946000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 80162816,
+      "phase": "comparator-preflight:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.361,
+      "max_rss_kib": 351620,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "comparator-preflight",
+      "returncode": 0,
+      "system_cpu_seconds": 0.162,
+      "user_cpu_seconds": 0.231,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 399866000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 360321024,
+      "phase": "comparator-preflight:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.212,
+      "max_rss_kib": 78220,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "comparator-preflight",
+      "returncode": 0,
+      "system_cpu_seconds": 0.104,
+      "user_cpu_seconds": 0.141,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 250798000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 80359424,
+      "phase": "comparator-preflight:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.365,
+      "max_rss_kib": 351888,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "comparator-preflight",
+      "returncode": 0,
+      "system_cpu_seconds": 0.151,
+      "user_cpu_seconds": 0.244,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 401540000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 360595456,
+      "phase": "comparator-preflight:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.211,
+      "max_rss_kib": 78252,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "comparator-preflight",
+      "returncode": 0,
+      "system_cpu_seconds": 0.111,
+      "user_cpu_seconds": 0.132,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 249325000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 80146432,
+      "phase": "comparator-preflight:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.356,
+      "max_rss_kib": 351916,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "comparator-preflight",
+      "returncode": 0,
+      "system_cpu_seconds": 0.143,
+      "user_cpu_seconds": 0.245,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 393884000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 360378368,
+      "phase": "comparator-preflight:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 6.618,
+      "max_rss_kib": 144496,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 3,
+      "phase": "comparator-preflight",
+      "returncode": 0,
+      "system_cpu_seconds": 0.106,
+      "user_cpu_seconds": 6.643,
+      "workspace_disk_peak_bytes": 4096
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 6755411000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 148226048,
+      "phase": "comparator-preflight:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.128,
+      "max_rss_kib": 31844,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "comparator-preflight",
+      "returncode": 1,
+      "system_cpu_seconds": 0.034,
+      "user_cpu_seconds": 0.127,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 167481000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "1",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 32870400,
+      "phase": "comparator-preflight:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "failed",
+      "systemd_result": "exit-code"
+    },
+    {
+      "elapsed_seconds": 6.673,
+      "max_rss_kib": 153232,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 3,
+      "phase": "comparator-preflight",
+      "returncode": 1,
+      "system_cpu_seconds": 0.1,
+      "user_cpu_seconds": 6.634,
+      "workspace_disk_peak_bytes": 4096
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 6740442000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "1",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 157171712,
+      "phase": "comparator-preflight:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "failed",
+      "systemd_result": "exit-code"
+    },
+    {
+      "elapsed_seconds": 2.219,
+      "max_rss_kib": 147352,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 3,
+      "phase": "module-resolution",
+      "returncode": 0,
+      "system_cpu_seconds": 0.528,
+      "user_cpu_seconds": 1.766,
+      "workspace_disk_peak_bytes": 892928
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 2300475000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 151150592,
+      "phase": "module-resolution:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.056,
+      "max_rss_kib": 23376,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "module-resolution",
+      "returncode": 0,
+      "system_cpu_seconds": 0.028,
+      "user_cpu_seconds": 0.06,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 93973000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 24199168,
+      "phase": "module-resolution:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 48.818,
+      "max_rss_kib": 8431224,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 3,
+      "phase": "trusted-cache",
+      "returncode": 0,
+      "system_cpu_seconds": 47.616,
+      "user_cpu_seconds": 80.135,
+      "workspace_disk_peak_bytes": 7896637440
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 127757141000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 8633589760,
+      "phase": "trusted-cache:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 5.012,
+      "max_rss_kib": 271064,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 3,
+      "phase": "trusted-cache",
+      "returncode": 0,
+      "system_cpu_seconds": 3.465,
+      "user_cpu_seconds": 5.43,
+      "workspace_disk_peak_bytes": 1507328
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 8901745000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 277831680,
+      "phase": "trusted-cache:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 2.495,
+      "max_rss_kib": 143956,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 3,
+      "phase": "trusted-cache",
+      "returncode": 0,
+      "system_cpu_seconds": 0.654,
+      "user_cpu_seconds": 1.813,
+      "workspace_disk_peak_bytes": 737280
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 2474196000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 147427328,
+      "phase": "trusted-cache:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 4.421,
+      "max_rss_kib": 669604,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 3,
+      "phase": "canonical-challenge",
+      "returncode": 0,
+      "system_cpu_seconds": 1.302,
+      "user_cpu_seconds": 4.554,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 5869207000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 685936640,
+      "phase": "canonical-challenge:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.063,
+      "max_rss_kib": 23344,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "canonical-challenge",
+      "returncode": 0,
+      "system_cpu_seconds": 0.033,
+      "user_cpu_seconds": 0.062,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 100951000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 24166400,
+      "phase": "canonical-challenge:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.057,
+      "max_rss_kib": 25384,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "canonical-challenge",
+      "returncode": 0,
+      "system_cpu_seconds": 0.035,
+      "user_cpu_seconds": 0.053,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 93645000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 26255360,
+      "phase": "canonical-challenge:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.016,
+      "max_rss_kib": 13492,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "confinement-final",
+      "returncode": 0,
+      "system_cpu_seconds": 0.019,
+      "user_cpu_seconds": 0.028,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 52308000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 9039872,
+      "phase": "confinement-final:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.036,
+      "max_rss_kib": 13492,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "confinement-final",
+      "returncode": 0,
+      "system_cpu_seconds": 0.027,
+      "user_cpu_seconds": 0.041,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 73278000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 13180928,
+      "phase": "confinement-final:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.016,
+      "max_rss_kib": 13492,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "confinement-final",
+      "returncode": 1,
+      "system_cpu_seconds": 0.019,
+      "user_cpu_seconds": 0.029,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 52634000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "1",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 8589312,
+      "phase": "confinement-final:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "failed",
+      "systemd_result": "exit-code"
+    },
+    {
+      "elapsed_seconds": 0.037,
+      "max_rss_kib": 13328,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "confinement-final",
+      "returncode": 0,
+      "system_cpu_seconds": 0.026,
+      "user_cpu_seconds": 0.043,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 74757000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 13692928,
+      "phase": "confinement-final:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.037,
+      "max_rss_kib": 13492,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "confinement-final",
+      "returncode": 0,
+      "system_cpu_seconds": 0.024,
+      "user_cpu_seconds": 0.044,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 73125000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 13557760,
+      "phase": "confinement-final:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 0.037,
+      "max_rss_kib": 13316,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "confinement-final",
+      "returncode": 1,
+      "system_cpu_seconds": 0.025,
+      "user_cpu_seconds": 0.043,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 72746000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "1",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 13447168,
+      "phase": "confinement-final:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "failed",
+      "systemd_result": "exit-code"
+    },
+    {
+      "elapsed_seconds": 0.036,
+      "max_rss_kib": 13492,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "confinement-final",
+      "returncode": 1,
+      "system_cpu_seconds": 0.026,
+      "user_cpu_seconds": 0.042,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 73156000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "1",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 13455360,
+      "phase": "confinement-final:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "failed",
+      "systemd_result": "exit-code"
+    },
+    {
+      "elapsed_seconds": 0.034,
+      "max_rss_kib": 13492,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 1,
+      "phase": "confinement-final",
+      "returncode": 1,
+      "system_cpu_seconds": 0.024,
+      "user_cpu_seconds": 0.041,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 69895000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "1",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 12656640,
+      "phase": "confinement-final:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "failed",
+      "systemd_result": "exit-code"
+    },
+    {
+      "elapsed_seconds": 1.269,
+      "max_rss_kib": 112060,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 3,
+      "phase": "candidate-configuration",
+      "returncode": 0,
+      "system_cpu_seconds": 0.639,
+      "user_cpu_seconds": 0.684,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 1330570000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 115011584,
+      "phase": "candidate-configuration:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 1.265,
+      "max_rss_kib": 111580,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 3,
+      "phase": "candidate-configuration",
+      "returncode": 0,
+      "system_cpu_seconds": 0.622,
+      "user_cpu_seconds": 0.698,
+      "workspace_disk_peak_bytes": 0
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 1328538000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 114520064,
+      "phase": "candidate-configuration:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 11.055,
+      "max_rss_kib": 987568,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 3,
+      "phase": "challenge-export",
+      "returncode": 0,
+      "system_cpu_seconds": 1.951,
+      "user_cpu_seconds": 8.164,
+      "workspace_disk_peak_bytes": 146878464
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 10120502000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 1011281920,
+      "phase": "challenge-export:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 338.223,
+      "max_rss_kib": 3692108,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 3,
+      "phase": "solution-build",
+      "returncode": 0,
+      "system_cpu_seconds": 205.81,
+      "user_cpu_seconds": 1056.857,
+      "workspace_disk_peak_bytes": 1288065024
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 1262673146000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 3780734976,
+      "phase": "solution-build:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 18.362,
+      "max_rss_kib": 2028468,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 3,
+      "phase": "solution-export",
+      "returncode": 0,
+      "system_cpu_seconds": 2.41,
+      "user_cpu_seconds": 9.892,
+      "workspace_disk_peak_bytes": 180187136
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 12316744000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 2077167616,
+      "phase": "solution-export:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    },
+    {
+      "elapsed_seconds": 69.56,
+      "max_rss_kib": 1057268,
+      "memory_source": "cgroup",
+      "peak_tasks_observed": 3,
+      "phase": "comparator",
+      "returncode": 0,
+      "system_cpu_seconds": 0.762,
+      "user_cpu_seconds": 111.865,
+      "workspace_disk_peak_bytes": 12288
+    },
+    {
+      "cpu_max_applied": false,
+      "cpu_usage_nanoseconds": 112633444000,
+      "deadline_fired": false,
+      "exec_main_code": "1",
+      "exec_main_status": "0",
+      "memory_events": {
+        "oom": 0,
+        "oom_kill": 0
+      },
+      "memory_peak_bytes": 1082658816,
+      "phase": "comparator:cgroup",
+      "pids_events_max": 0,
+      "rlimits_applied": {
+        "FSIZE": 1099511627776,
+        "NOFILE": 65536
+      },
+      "supervisor": "cgroup",
+      "supervisor_timeout": false,
+      "systemd_active_state": "inactive",
+      "systemd_result": "success"
+    }
+  ],
+  "schema_version": 2,
+  "solution": {
+    "module": "Registry.P046.Solution",
+    "path": "Registry/P046/Solution.lean",
+    "sha256": "e7c0338b14829dd1157c88cef186e2293b6323e97718d4626c5b67c4b6c9d360"
+  },
+  "source": {
+    "bytes": 1758858,
+    "commit": "61dde483d2e96235469621003fb00dc627f40d1b",
+    "repository": "mmislan/palomar-p046-critical-window-shape-law",
+    "repository_url": "https://github.com/mmislan/palomar-p046-critical-window-shape-law",
+    "tree_url": "https://github.com/mmislan/palomar-p046-critical-window-shape-law/tree/61dde483d2e96235469621003fb00dc627f40d1b"
+  },
+  "source_requirements": {
+    "files_checked": 248,
+    "header_parser": "lean --deps-json",
+    "maximum_lines": 10000,
+    "module_required": true,
+    "schema_version": 1
+  },
+  "stage": "complete",
+  "status": "pass",
+  "submission": {
+    "authorization": {
+      "relationship": "maintainer"
+    },
+    "requested_paths": {
+      "comparator_config_path": "entries/P046/comparator.json",
+      "formalization_metadata_path": "entries/P046/formalization.yaml",
+      "project_path": ""
+    },
+    "submission_id": "p046cloud001"
+  },
+  "tool_digests": {
+    "bwrap": "83b4d7cf7ca44c70b7575a9a3c39044c728c31c8103c3ea0caaac6aab8d0d88e",
+    "con-ron": "4e5616d94374cae37324dad2594f6230c2bb2297240249fc78ff508f3bc5acef",
+    "lake": "8ba83c98f76562d03b8dbc33f1057151ba6cbb121679dde76b2260ccc90495e1",
+    "lean": "bf8d54e4714cc4b03d3f6bb34c83b7202b87e49c8bfcbff6895c085bb90ceb38",
+    "leanchecker": "9e36e955a251b1313c8eb5b7fa101282d51df109d34d8bb7c1cfdf51985aba29",
+    "leanexport": "c5bc1a10a21e22cbb3671d65987cdef2076833b14182d823ccb2153adf2fa954",
+    "nanoda_bin": "8241c5e6baa29490aa118d382f97961b208ae730fdb96545c2abed74c9ece5a8"
+  },
+  "toolchain_commit": "11acb17ec6b07a8f9e9173e6845197929540936b",
+  "verification_profile": {
+    "id": "palomar-standard-v1",
+    "limits": {
+      "execution_budget_seconds": 19800,
+      "file_size_max_bytes": 1099511627776,
+      "job_timeout_minutes": 350,
+      "memory_high_percent": 95,
+      "memory_max_percent": 98,
+      "minimum_host_memory_bytes": 15032385536,
+      "minimum_workspace_free_bytes": 21474836480,
+      "open_files_max": 1048576,
+      "tasks_max": 32768
+    },
+    "observed_host": {
+      "architecture": "x86_64",
+      "effective_cpus": 4.0,
+      "memory_bytes": 16766414848,
+      "memory_high_bytes": 15928094105,
+      "memory_max_bytes": 16431086551,
+      "workspace_free_bytes": 115421425664
+    },
+    "runner": {
+      "architecture": "x86_64",
+      "label": "ubuntu-24.04",
+      "provider": "github-hosted"
+    },
+    "sha256": "94fcd7906a1b6c076c0036d742e1c5add8625e49bb474818ec8924576dbf0caa",
+    "trusted_tools": {
+      "bwrap_source_tag": "v0.12.0",
+      "toolchain_floor": "v4.35.0-rc2"
+    }
+  },
+  "warnings": [
+    "configured Challenge source exceeds the preferred 32 KiB / 300-line review surface"
+  ],
+  "workflow_url": "https://github.com/mmislan/palomar-p046-critical-window-shape-law/actions/runs/37205743263",
+  "execution_profile": "palomar-standard-v1"
+}

@@ -1,0 +1,10 @@
+{
+  "verified_commit": "61dde483d2e96235469621003fb00dc627f40d1b",
+  "repository": "mmislan/palomar-p046-critical-window-shape-law",
+  "workflow_run": "https://github.com/mmislan/palomar-p046-critical-window-shape-law/actions/runs/37205743263",
+  "registry_verification_run": "https://github.com/PalomarRegistry/PalomarSubmission/actions/runs/37206542921",
+  "lean_toolchain": "leanprover/lean4:v4.35.0-rc2",
+  "proof_source_manifest": "proof-source-sha256.json",
+  "mechanical_report_sha256": "32a580620cfbf3a75802d06e478bea86110c5fea26d69be4ad45a96500a0cd1a",
+  "scope": "Comparator-selected root and twelve supporting declarations; con-ron, NanoDa and Lean default kernels accepted. Proof files, Comparator configuration and dependency pins match the verified commit. Manuscript and replay additions are not covered by that earlier commit check."
+}

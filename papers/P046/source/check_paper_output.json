@@ -1,0 +1,468 @@
+{
+ "status": "ALL CHECKS PASSED",
+ "checks": 53,
+ "failed": [],
+ "results": {
+  "channel_count_split_n4": {
+   "pass": true,
+   "detail": {
+    "enumerated": 68,
+    "formula": 68
+   }
+  },
+  "channel_count_quotient_n4": {
+   "pass": true,
+   "detail": {
+    "enumerated": 64,
+    "formula": 64
+   }
+  },
+  "channel_count_split_n5": {
+   "pass": true,
+   "detail": {
+    "enumerated": 196,
+    "formula": 196
+   }
+  },
+  "channel_count_quotient_n5": {
+   "pass": true,
+   "detail": {
+    "enumerated": 188,
+    "formula": 188
+   }
+  },
+  "channel_count_split_n6": {
+   "pass": true,
+   "detail": {
+    "enumerated": 516,
+    "formula": 516
+   }
+  },
+  "channel_count_quotient_n6": {
+   "pass": true,
+   "detail": {
+    "enumerated": 502,
+    "formula": 502
+   }
+  },
+  "channel_count_split_n7": {
+   "pass": true,
+   "detail": {
+    "enumerated": 1284,
+    "formula": 1284
+   }
+  },
+  "channel_count_quotient_n7": {
+   "pass": true,
+   "detail": {
+    "enumerated": 1264,
+    "formula": 1264
+   }
+  },
+  "channel_count_split_n8": {
+   "pass": true,
+   "detail": {
+    "enumerated": 3076,
+    "formula": 3076
+   }
+  },
+  "channel_count_quotient_n8": {
+   "pass": true,
+   "detail": {
+    "enumerated": 3048,
+    "formula": 3048
+   }
+  },
+  "channel_count_split_n9": {
+   "pass": true,
+   "detail": {
+    "enumerated": 7172,
+    "formula": 7172
+   }
+  },
+  "channel_count_quotient_n9": {
+   "pass": true,
+   "detail": {
+    "enumerated": 7130,
+    "formula": 7130
+   }
+  },
+  "deletion_terms_n16": {
+   "pass": true,
+   "detail": {
+    "1": 112,
+    "2": 24,
+    "3": 24,
+    "4": 24,
+    "5": 30
+   }
+  },
+  "R16_split": {
+   "pass": true,
+   "detail": 1835012
+  },
+  "R16_quotient": {
+   "pass": true,
+   "detail": 1834798
+  },
+  "M16": {
+   "pass": true
+  },
+  "gateways_sp": {
+   "pass": true,
+   "detail": {
+    "gateways": 36,
+    "growth": 32,
+    "food_only": 4
+   }
+  },
+  "singleton_witnesses_sp": {
+   "pass": true,
+   "detail": 248
+  },
+  "nongateway_cannot_fire_alone_sp": {
+   "pass": true
+  },
+  "growth_closure_seven_sp": {
+   "pass": true
+  },
+  "foodonly_closure_six_sp": {
+   "pass": true
+  },
+  "gateways_qt": {
+   "pass": true,
+   "detail": {
+    "gateways": 34,
+    "growth": 30,
+    "food_only": 4
+   }
+  },
+  "singleton_witnesses_qt": {
+   "pass": true,
+   "detail": 234
+  },
+  "nongateway_cannot_fire_alone_qt": {
+   "pass": true
+  },
+  "growth_closure_seven_qt": {
+   "pass": true
+  },
+  "foodonly_closure_six_qt": {
+   "pass": true
+  },
+  "history_budget_census_sp": {
+   "pass": true,
+   "detail": [
+    {
+     "j": 0,
+     "states": 1,
+     "transitions": 32,
+     "max_choices": 32,
+     "max_T": 10,
+     "max_Q": 4
+    },
+    {
+     "j": 1,
+     "states": 24,
+     "transitions": 1080,
+     "max_choices": 46,
+     "max_T": 14,
+     "max_Q": 7
+    },
+    {
+     "j": 2,
+     "states": 546,
+     "transitions": 33462,
+     "max_choices": 66,
+     "max_T": 22,
+     "max_Q": 14
+    }
+   ]
+  },
+  "history_budget_census_qt": {
+   "pass": true,
+   "detail": [
+    {
+     "j": 0,
+     "states": 1,
+     "transitions": 30,
+     "max_choices": 30,
+     "max_T": 10,
+     "max_Q": 4
+    },
+    {
+     "j": 1,
+     "states": 24,
+     "transitions": 1022,
+     "max_choices": 44,
+     "max_T": 14,
+     "max_Q": 7
+    },
+    {
+     "j": 2,
+     "states": 546,
+     "transitions": 31970,
+     "max_choices": 63,
+     "max_T": 22,
+     "max_Q": 14
+    }
+   ]
+  },
+  "history_coefficients_r2": {
+   "pass": true
+  },
+  "closed_envelope_bj": {
+   "pass": true
+  },
+  "closed_envelope_Cr": {
+   "pass": true
+  },
+  "quotient_le_split_coefficient": {
+   "pass": true
+  },
+  "certificate_a1e-3_r8": {
+   "pass": true,
+   "detail": {
+    "a": "1e-3",
+    "r": 8,
+    "target": "1e-5",
+    "log10_C_r_split": 18.354
+   }
+  },
+  "certificate_a1e-4_r12": {
+   "pass": true,
+   "detail": {
+    "a": "1e-4",
+    "r": 12,
+    "target": "1e-15",
+    "log10_C_r_split": 32.578
+   }
+  },
+  "certificate_a1e-6_r18": {
+   "pass": true,
+   "detail": {
+    "a": "1e-6",
+    "r": 18,
+    "target": "1e-45",
+    "log10_C_r_split": 62.431
+   }
+  },
+  "certificate_a1e-20_r65": {
+   "pass": true,
+   "detail": {
+    "a": "1e-20",
+    "r": 65,
+    "target": "1e-629",
+    "log10_C_r_split": 670.814
+   }
+  },
+  "certificate_020_integer_form": {
+   "pass": true
+  },
+  "sparse_coefficient_r2": {
+   "pass": true,
+   "detail": {
+    "cap": 20,
+    "channels": 37748740
+   }
+  },
+  "worked_bound_1e-20": {
+   "pass": true
+  },
+  "finite_example_sp": {
+   "pass": true,
+   "detail": {
+    "mode": "sp",
+    "R": 1835012,
+    "M": 131070,
+    "p": "1/1146882500",
+    "C2": 2272,
+    "lower_display": 2.1623834463823587e-07,
+    "singleton_display": 2.1623834463823754e-07,
+    "history_display": 2.967406706667399e-05,
+    "short_display": 1.600861465756082e-05,
+    "upper_display": 4.568268172423481e-05
+   }
+  },
+  "finite_example_p_sp": {
+   "pass": true
+  },
+  "finite_example_qt": {
+   "pass": true,
+   "detail": {
+    "mode": "qt",
+    "R": 1834798,
+    "M": 131070,
+    "p": "1/1146748750",
+    "C2": 2130,
+    "lower_display": 2.0405513956529172e-07,
+    "singleton_display": 2.0405513956529312e-07,
+    "history_display": 2.782592764324032e-05,
+    "short_display": 1.5121010596261823e-05,
+    "upper_display": 4.294693823950214e-05
+   }
+  },
+  "finite_example_p_qt": {
+   "pass": true
+  },
+  "table4_rounded_entries": {
+   "pass": true,
+   "detail": {
+    "sp": [
+     "2.162383",
+     "2.967407",
+     "1.600861"
+    ],
+    "qt": [
+     "2.040551",
+     "2.782593",
+     "1.512101"
+    ]
+   }
+  },
+  "a_lambda_below_lambda": {
+   "pass": true,
+   "detail": {
+    "lower": "20001/200020001",
+    "upper": "300015001/3000300015001"
+   }
+  },
+  "rational_log_enclosure_half": {
+   "pass": true,
+   "detail": {
+    "lower": "60805425178867/87723685969920",
+    "upper": "15566188957336387/22457263608299520"
+   }
+  },
+  "seed_length_split_m100_q1/2": {
+   "pass": true,
+   "detail": 483
+  },
+  "seed_length_quotient_m100_q1/2": {
+   "pass": true,
+   "detail": 2152
+  },
+  "repair_trial_scale_log2r": {
+   "pass": true,
+   "detail": 4842.71
+  },
+  "precision_index": {
+   "pass": true
+  },
+  "normalisation_envelopes_n4_100": {
+   "pass": true
+  },
+  "repair_support_size_L4": {
+   "pass": true
+  },
+  "figure_written": {
+   "pass": true
+  }
+ },
+ "history_census": {
+  "sp": [
+   {
+    "j": 0,
+    "states": 1,
+    "transitions": 32,
+    "max_choices": 32,
+    "max_T": 10,
+    "max_Q": 4
+   },
+   {
+    "j": 1,
+    "states": 24,
+    "transitions": 1080,
+    "max_choices": 46,
+    "max_T": 14,
+    "max_Q": 7
+   },
+   {
+    "j": 2,
+    "states": 546,
+    "transitions": 33462,
+    "max_choices": 66,
+    "max_T": 22,
+    "max_Q": 14
+   }
+  ],
+  "qt": [
+   {
+    "j": 0,
+    "states": 1,
+    "transitions": 30,
+    "max_choices": 30,
+    "max_T": 10,
+    "max_Q": 4
+   },
+   {
+    "j": 1,
+    "states": 24,
+    "transitions": 1022,
+    "max_choices": 44,
+    "max_T": 14,
+    "max_Q": 7
+   },
+   {
+    "j": 2,
+    "states": 546,
+    "transitions": 31970,
+    "max_choices": 63,
+    "max_T": 22,
+    "max_Q": 14
+   }
+  ]
+ },
+ "finite_examples": [
+  {
+   "mode": "sp",
+   "R": 1835012,
+   "M": 131070,
+   "p": "1/1146882500",
+   "C2": 2272,
+   "lower_display": 2.1623834463823587e-07,
+   "singleton_display": 2.1623834463823754e-07,
+   "history_display": 2.967406706667399e-05,
+   "short_display": 1.600861465756082e-05,
+   "upper_display": 4.568268172423481e-05
+  },
+  {
+   "mode": "qt",
+   "R": 1834798,
+   "M": 131070,
+   "p": "1/1146748750",
+   "C2": 2130,
+   "lower_display": 2.0405513956529172e-07,
+   "singleton_display": 2.0405513956529312e-07,
+   "history_display": 2.782592764324032e-05,
+   "short_display": 1.5121010596261823e-05,
+   "upper_display": 4.294693823950214e-05
+  }
+ ],
+ "certificates": [
+  {
+   "a": "1e-3",
+   "r": 8,
+   "target": "1e-5",
+   "log10_C_r_split": 18.354
+  },
+  {
+   "a": "1e-4",
+   "r": 12,
+   "target": "1e-15",
+   "log10_C_r_split": 32.578
+  },
+  {
+   "a": "1e-6",
+   "r": 18,
+   "target": "1e-45",
+   "log10_C_r_split": 62.431
+  },
+  {
+   "a": "1e-20",
+   "r": 65,
+   "target": "1e-629",
+   "log10_C_r_split": 670.814
+  }
+ ]
+}
